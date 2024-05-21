@@ -1,0 +1,70 @@
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.exe
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.deps.json
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.runtimeconfig.json
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.pdb
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\Emgu.CV.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\System.Text.Encodings.Web.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\System.Text.Json.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\cvextern.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\opencv_videoio_ffmpeg480_64.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\concrt140.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\msvcp140.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\msvcp140_1.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\msvcp140_2.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\msvcp140_atomic_wait.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\msvcp140_codecvt_ids.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\vcruntime140.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\vcruntime140_1.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\Microsoft.Windows.SDK.NET.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\WinRT.Runtime.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.csproj.AssemblyReference.cache
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\Test1.Cmd.Form1.resources
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.csproj.GenerateResource.cache
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.GeneratedMSBuildEditorConfig.editorconfig
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.AssemblyInfoInputs.cache
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.AssemblyInfo.cs
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.csproj.CoreCompileInputs.cache
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.csproj.CopyComplete
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\refint\ViBe SzL-CH.dll
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.pdb
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.genruntimeconfig.cache
+E:\documents\tanulás\Online Oktatás\Fősuli\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ref\ViBe SzL-CH.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.exe
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.deps.json
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.runtimeconfig.json
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.pdb
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\Emgu.CV.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\System.Text.Encodings.Web.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\System.Text.Json.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\cvextern.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\opencv_videoio_ffmpeg480_64.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\concrt140.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\msvcp140.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\msvcp140_1.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\msvcp140_2.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\msvcp140_atomic_wait.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\msvcp140_codecvt_ids.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\vcruntime140.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\vcruntime140_1.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\WinRT.Runtime.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\Test1.Cmd.Form1.resources
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.csproj.GenerateResource.cache
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.AssemblyInfo.cs
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.csproj.CopyComplete
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\refint\ViBe SzL-CH.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.pdb
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.genruntimeconfig.cache
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ref\ViBe SzL-CH.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.dll.manifest
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.application
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.dll.manifest
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\obj\Release\net6.0-windows10.0.22621.0\win-x64\ViBe SzL-CH.application

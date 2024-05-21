@@ -1,0 +1,20 @@
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\ViBe SzL-CH.exe
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\ViBe SzL-CH.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\ViBe SzL-CH.deps.json
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\ViBe SzL-CH.runtimeconfig.json
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\ViBe SzL-CH.pdb
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\Microsoft.Windows.SDK.NET.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\WinRT.Runtime.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\Emgu.CV.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\System.Text.Encodings.Web.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\System.Text.Json.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\cvextern.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\opencv_videoio_ffmpeg480_64.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\concrt140.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\msvcp140.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\msvcp140_1.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\msvcp140_2.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\msvcp140_atomic_wait.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\msvcp140_codecvt_ids.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\vcruntime140.dll
+C:\Users\Student\Documents\SzL\Geometria\ViBe SzL-CH\ViBe SzL-CH\bin\publish\vcruntime140_1.dll
