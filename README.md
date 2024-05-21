@@ -14,6 +14,9 @@ A program kamerából is tud dolgozni.
 
 ![Alt text](./img/GUI.png "A program grafikus felülete")
 
+A program futásának eredménye:
+![Alt text](./img/SAMPLE.png "A program futásának eredménye")
+
 Fejlesztők:
  - Grafikus felület: Szoboszlai László
  - Konzolos felület: Christopher Babulic
