@@ -2,7 +2,7 @@
 
 Ez a program videó háttér, vagy előtér eltávolításra szolgál.
 Ezen művelet elvégzéséhez az ismert ViBe algoritmus megvalósítást használja.
-A program támogatja a többmagós működést, és SIMD utasításkészletet használ!
+A program támogatja a többmagos működést, és SIMD utasításkészletet használ!
 
 A szoftver rendelkezik grafikus és konzolos felülettel is.
 
